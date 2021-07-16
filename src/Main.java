@@ -11,5 +11,6 @@ public class Main {
         }
         int finalamount = initialamount + replenishmentamount + bonus;
         System.out.println(finalamount);
+        System.out.println(bonus);
     }
 }
